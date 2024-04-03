@@ -1,16 +1,16 @@
 export { SmartDashBoard } from './network-tables/smartdashboard';;
 
 // FMSInfo
-export * from './network/types.fms-info';
+export { FMSInfo } from './network/types.fms-info';
 
 // Live Window
-export * from './network/types.live-window';
+export { LiveWindow } from './network/types.live-window';
 
 // Path planner
-export * from './network/types.path-planner';
+export { PathPlanner } from './network/types.path-planner';
 
 // Shuffle Board
-export * from './network/types.shuffle-board';
+export { ShuffleBoard } from './network/types.shuffle-board';
 
 // Smart Dashboard
-export * from './network/types.smart-dashboard';
+export { SmartDashboard } from './network/types.smart-dashboard';
