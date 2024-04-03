@@ -1,0 +1,29 @@
+{
+  "name": "frc-dashboard-types",
+  "version": "1.0.0",
+  "description": "API Wrapper for FRC's Network Tables. Call, fetch, and display values from your robot into your website.",
+  "type": "module",
+  "main": "/dist/index.js",
+  "types": "/dist/types/index.d.ts",
+  "typings": "/dist/types/index.d.ts",
+  "files": ["dist"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ever Tovar",
+  "contributors": [
+    {
+      "name": "Rafael Cavazos",
+      "url": "https://github.com/rncjr3"
+    },
+    {
+      "name": "Team 4597 - Saberbots",
+      "url": "https://github.com/4597ddom"
+    }
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "socket.io-client": "^4.7.5",
+    "typescript": "^5.4.3"
+  }
+}
