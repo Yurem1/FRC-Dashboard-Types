@@ -1,6 +1,6 @@
 {
   "name": "frc-dashboard-types",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "API Wrapper for FRC's Network Tables. Call, fetch, and display values from your robot into your website.",
   "type": "module",
   "main": "/dist/index.js",
